@@ -1,0 +1,5 @@
+*.class
+tmp/*
+db/*.sqlite3
+.idea/*
+
